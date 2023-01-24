@@ -6234,7 +6234,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   font-size: 14px;
   margin-top: 10px; }
   .modal-product-meta > ul > li:first-child {
-    margin-top: 0; }
+    margin-top: 0;
+    }
 
 .modal-product-meta li strong {
   color: var(--ltn__heading-color);
